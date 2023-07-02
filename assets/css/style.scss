@@ -1,0 +1,41 @@
+---
+---
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "{{ site.theme }}";
+
+header {
+    h1 {
+        white-space: nowrap;
+        text-align: center;
+    }
+    img { // logo
+        clip-path: circle(50% at center);
+    }
+    .post-list {
+        list-style: none;
+        padding: 0;
+    }
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+	width: 100%;
+	margin-bottom: 1em;
+
+    * {
+        margin-left:0.5em;
+    }
+
+}
+.fa {
+	font-size: 2em;
+}
+
+.hero {
+    clip-path: inset(33% 0 33%);
+    filter: brightness(60%);
+    margin-top: -23%;
+    margin-bottom: -40%;
+}
