@@ -25,6 +25,6 @@ I'm a founding director of [Dynamo Glasgow CIC](https://dynamocic.org). We're a 
 
 ## Contact
 
-You can contact me at [emil.carr@protonmail.com](mailto:emil.carr@protonmail.com) or on any of my socials linked below. I look forward to hearing from you!
+You can contact me at [mail@emilcarr.scot](mailto:mail@emilcarr.scot) or on any of my socials linked below. I look forward to hearing from you!
 
 {% include socials.html %}
