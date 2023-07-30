@@ -17,6 +17,10 @@ I also enjoy the odd bit of coding here and there, and try to make or do somethi
 
 I like taking pictures of my bike rides, of my friends, and of interesting architecture. Usually shooting on 35mm film, you can find some of the pictures I've taken on this site.
 
+I occasionally do **freelance boudoir modelling**, or just for fun. View my portfolio on my [PurplePort](https://purpleport.com/portfolio/emilcarrross/) or email me to enquire.
+
+![Boudoir shot of Emil surrounded by mirrors](/media/2023/07/IMG_0221.JPG){:.hero}
+
 ## Where I Work
 
 I work part-time as a Project Worker for [Bikes for Refugees Scotland](https://bikesforrefugees.scot). This is my main living and takes up the bulk of my time. You can read more about Bikes for Refugees and find my work contact details at [bikesforrefugees.scot](https://bikesforrefugees.scot/)
