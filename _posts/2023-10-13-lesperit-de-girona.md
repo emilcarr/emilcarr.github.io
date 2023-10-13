@@ -3,7 +3,7 @@
 layout: post
 title: "L'esperit de Girona"
 by: Emil Carr-Ross
-date: 2023-10-13 18:18:00 -0000
+date: 2023-10-13 18:18:00 +0100
 categories: posts
 ---
 
