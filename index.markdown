@@ -10,7 +10,9 @@ Primarily, I'm a cycle mechanic and love anything and everything on one, two or 
 
 I love teaching, and hope to spend more of my time sharing everything I have learned and helping other people enter the cycling industry.
 
-When I'm not fixing bikes, I'm probably riding bikes. I love going on long rides on a Sunday through the Scottish moorelands around Glasgow and occasionally venture out further into the Highlands and Trossachs. I'm just getting into bikepacking too, and plan to spend as much of my time off as I can this summer cycling and camping.
+When I'm not fixing bikes, I'm probably riding bikes. I love going on long rides on a Sunday through the Scottish moorelands around Glasgow and occasionally venture out further into the Highlands and Trossachs. I'm just getting into bikepacking and ultra-distance riding, and hope to enter a few events next year after [riding my first ultra event in 2023](/poosts/2023/10/13/lesperit-de-girona.html)
+
+![The finish line at St Grau. Credit: Tom Hardie via bikepacking.com](https://bikepacking.com/wp-content/uploads/2023/09/emil-lesperit-girona-2023_5.jpg){:.hero}
 
 I occasionally dabble in the weird and wonderful world of Modular Synthesis, with a long-held fascination in Electronic Engineering. I have more hobby-electronics projects than I can currently keep up with.
 I also enjoy the odd bit of coding here and there, and try to make or do something regularly enough to maintain my skills. I also find my programming knowledge useful in my day-to-day work to automate the little things. You can have a look at [my github profile](https://github.com/emilcarr) to see what I've done. 
