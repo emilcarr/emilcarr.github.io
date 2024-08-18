@@ -27,7 +27,6 @@ I occasionally do **freelance boudoir modelling**, or just for fun. View my port
 
 I work part-time as a Project Worker for [Bikes for Refugees Scotland](https://bikesforrefugees.scot). This is my main living and takes up the bulk of my time. You can read more about Bikes for Refugees and find my work contact details at [bikesforrefugees.scot](https://bikesforrefugees.scot/)
 
-I'm a founding director of [Dynamo Glasgow CIC](https://dynamocic.org). We're a new, feminist, queer-led cycling and maintenance project in Glasgow. You can read more about us at [dynamocic.org](https://dynamocic.org). Currently, I'm taking a step back from much of this work while my colleagues do a fine job.
 
 ## Contact
 
