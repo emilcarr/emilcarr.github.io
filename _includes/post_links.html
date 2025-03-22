@@ -4,10 +4,10 @@
     {% assign posts = site.posts %}   
 {% endif %}
 <ul class="post-list">
-    {%- for post in posts -%}
+    {%- for post in posts -%}{% unless post.hidden %}
     <li>
         <span class="post-meta">{{ post.date | date: site.date_format }}</span>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </li>
-    {%- endfor - %}
+    {% endunless %}{%- endfor - %}
 </ul>
