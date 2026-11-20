@@ -55,7 +55,7 @@ If a product uses a refrigerant such as r (todo), it is required to disclose tha
 
 Many dehumidifiers will also make a claim for the size of space they are suitable for, usually in square meters. This is plain nonsense, as the area of a room says nothing without extra information about its volume and its draughtiness.
 
-The most important statistics to look at are: price, capacity (usually measured in Litres per day), and power use.
+The most important statistics to look at are: price, extraction rate (usually measured in Litres per day), and power use.
 
 ## Draughtiness and Airtightness
 
@@ -65,8 +65,7 @@ This is typically measured in Air Changes per Hour, or ACH. A very draughty room
 
 ## Putting it all together
 
-Okay, with the theory out of the way we can start to calculate the dehumidification capacity we need.
-
+Okay, with the theory out of the way we can start to calculate the extraction rate we need.
 You need to know
 - The volume of your room.
 - The airtightness of your room in numbers of ACH.
@@ -98,7 +97,7 @@ $$
 Your local meteorological office should have information on this. Where I live, in Glasgow, Scotland, the humidity is 80-90% pretty much year round.
 
 
-### Calculating the capacity needed
+### Calculating the extraction rate needed
 
 The volume of water to remove is found by looking at the psychrometric diagram. First, read the absolute humidity at your average outside relative humidity at your average internal temperature. Next, read the same for your target humidity. Subtract the two to get the mass of water per volume of air that we are trying to remove.
 
@@ -120,4 +119,21 @@ $$
 $$
 {% endraw %}
 
-Finally, multiply this by 24 to get the dehumidification capacity per day.  
+Finally, multiply this by 24 to get the dehumidification extraction rate in litres per day.
+
+## Plumbing for continuous drainage
+
+Many people simply place their drain hose into a sink, but if you want something neater and more permanent, there’s a few options.
+
+Assuming an extraction rate of 9L/day, and the dehumidifier running at full capacity, this amounts to only 6mL of water per minute, or a very slow trickle. If your dehumidifier isn’t positioned near a sink, it’s perfectly acceptable to drain this outside without a direct sewer connection.
+
+I used 22mm rigid overflow waste pipes and solvent weld fittings. I drilled a hole at a slight angle - to allow water to drain out rather than sitting in the pipe - through the masonry at the bottom of my wall. I ran a pipe through it, with a 90&deg; elbow on the outside to direct the stream out, and another on the inside to run the pipe vertically up to the shelf my dehumidifer is to sit on. If you need a long horizontal run, make sure it runs at a slight angle of at least 1:50 (one metre down for every 50 metres across). Secure the pipe onto the wall with a clip no more than every 500mm.
+
+I terminated this pipe with a solvent weld 22mm overflow tank connector, made by Aquaflow and [available from Toolstation](https://www.toolstation.com/solvent-weld-overflow-tank-connector/p29453) in the UK. This gives us a 3/4” BSP fitting to screw a hose barb onto. I shortened the length of available thread with a hacksaw, using the included nut as a guide.
+
+![product photograph of solvent weld 22mm overflow tank connector, view from south west](https://cdn.aws.toolstation.com/images/141020-UK/800/29453.jpg)
+
+The dehumidifier I picked, the EcoAir DD2, has a fitting for an 11mm drain hose. A barb this size isn’t all that readily available, but I found that a washer inlet hose is a similar diameter and comes with a 3/4” BSP fitting. By cutting one end off of the hose, the now-free end can be softened in a cup of hot water and pressed onto the dehumidifier’s outlet. Alternatively, you can cut through the crimped ends of the washer inlet hose, leaving you with a barb that should accept the softer silicone tubing included with the dehumidifier, plus a zip tie or a hose clip for security.
+
+If your dehumidifier is to be positioned near an existing sink or drain, this makes matters much easier. Simply install a washing machine drain fitting onto your sink trap and push the dehumidifier’s drain hose into or onto the barb.
+
